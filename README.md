@@ -1,0 +1,1 @@
+# Design-and-Analysis-of-Wound-Rotor-Synchronous-Machine
